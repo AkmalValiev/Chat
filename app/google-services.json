@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273369574700",
+    "project_id": "sevenmodullesson412",
+    "storage_bucket": "sevenmodullesson412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273369574700:android:5e6f13bb16035c51055089",
+        "android_client_info": {
+          "package_name": "uz.evkalipt.sevenmodullesson412"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273369574700-n45u3hma2on1p46cefj655mj1i0t7d6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK5hAgRhHwC7T5xAdqT2voklIbGM952d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273369574700-n45u3hma2on1p46cefj655mj1i0t7d6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
